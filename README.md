@@ -1,2 +1,2 @@
 # Progetto-Java-Esame
-projetto per l'esame di Java 2026
+progetto per l'esame di Java 2026
